@@ -1,0 +1,1 @@
+## Playful algorithms created to have fun.
