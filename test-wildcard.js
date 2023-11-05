@@ -63,4 +63,4 @@ console.log(new Dictionary(words, '*ar').isInDict()) // true
 console.log(new Dictionary(words, 'ca*').isInDict()) // true
 console.log(new Dictionary(words, 'c*r').isInDict()) // true
 console.log(new Dictionary(words, 'bat').isInDict()) // false
-console.log(new Dictionary(words, 'b*t*').isInDict()) // false
+console.log(new Dictionary(words, 'b*t*').isInDict()) // true
